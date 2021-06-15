@@ -1,4 +1,4 @@
-package Pacage1;
+package Package1;
 
 import java.awt.BorderLayout;
 import java.awt.Toolkit;
